@@ -23,11 +23,11 @@ Alors, je vous laisserez découvrir ce monde rempli de mystère et d'ancienneté
 
 ## Mes projets
 
-Comme vous pouvez le voir, j'ai mit quelques'un de mes repo en public et comme dit précédemment
-vous pouvez les reprendre en me mentionant **(surtout si c'est en lien avec mon language Bi)**
+Comme vous pouvez le voir, j'ai mis quelques-uns de mes repos en public et comme dit précédemment
+vous pouvez les reprendre en me mentionnant  **(surtout si c'est en lien avec mon langage Bi)**
 
-Mais plus sérieusement, je touche à pas mal de domaine. La plupart du temps mes repos restent privé
-mais il m'arrive dans mettre publique si le projet est simpa à partager, donc restez au jus...
+Mais plus sérieusement, je touche à pas mal de domaine. La plupart du temps, mes repos restent privé
+mais il m'arrive d'en mettre publique si le projet est sympa à partager, donc restez au jus...
 
 <!---
 Shirosaaki/Shirosaaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
