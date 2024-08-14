@@ -5,9 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirosaaki" alt="shirosaaki" /></a> </p>
 
+- 🌱 I’m currently learning **How life work**
+
+- 🤝 I’m looking for help with [bi](https://github.com/Shirosaaki/bi)
+
+- 💬 Ask me about **C, C++, Unreal Engine and python (and in godot 3)**
+
+- 📫 How to reach me **matheo.campanella@epitech.eu**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/mathéo-campanella-843ba42a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mathéo-campanella-843ba42a0" height="30" width="40" /></a>
+<a href="https://discord.gg/capitaineshirosaaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="capitaineshirosaaki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,4 +25,31 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirosaaki&show_icons=true&locale=en&layout=compact" alt="shirosaaki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirosaaki&show_icons=true&locale=en" alt="shirosaaki" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirosaaki&" alt="shirosaaki" /></p>
+
+
+# Qui est Shirosaaki ?
+
+Déjà, j'en ai mare de l'anglais, alors oui c'est pratique, oui je l'utilise tous les jours,
+mais je suis bien plus à l'aise en français et puis, j'ai déjà fait une doc entièrement en anglais...
+
+## Moi (oui, ça fait égocentrique)
+
+Je suis **Mathéo Campanella** et j'utilise github à la fois pour des projets perso et pour mon école.
+Je suis scolarisé à **Epitech**. Les projets publiques, vous pouvez les utiliser, les exploités, les améliorés,
+je vous demanderai juste d'être crédité **(surtout si c'est en lien avec mon language Bi)**
+
+## Mes projets
+
+Comme vous pouvez le voir, j'ai mis quelques-uns de mes repos en public et comme dit précédemment
+vous pouvez les reprendre en me mentionnant  **(surtout si c'est en lien avec mon langage Bi)**
+
+Mais plus sérieusement, je touche à pas mal de domaine. La plupart du temps, mes repos restent privé
+mais il m'arrive d'en mettre publique si le projet est sympa à partager, donc restez au jus...
+
+<!---
+Shirosaaki/Shirosaaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
 
