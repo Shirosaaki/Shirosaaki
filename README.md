@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirosaaki&show_icons=true&locale=en&theme=onedark" alt="shirosaaki" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NoNo-NC&theme=onedark" alt="shirosaaki" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirosaaki&theme=onedark" alt="shirosaaki" /></p>
 
 <!---
 Shirosaaki/Shirosaaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
