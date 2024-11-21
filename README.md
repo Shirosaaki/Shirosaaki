@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirosaaki&theme=onedark" alt="shirosaaki" /></a> </p>
 
-- 🌱 I’m currently learning **How life work**
+- 🌱 I’m currently learning **how life works**
 
 - 🤝 I’m looking for help with [bi](https://github.com/Shirosaaki/bi)
 
