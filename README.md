@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how life works**
 
-- 🤝 I’m looking for help with [bi](https://github.com/Shirosaaki/bi)
+- 🤝 I’m looking for help to recode an os
 
 - 💬 Ask me about **C, C++, Unreal Engine and python (and in godot 3)**
 
